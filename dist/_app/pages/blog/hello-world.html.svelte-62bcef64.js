@@ -1,0 +1,1 @@
+import{S as s,i as a,s as e,e as o,t as r,c as t,a as l,g as c,d as n,f as u,F as d,G as f}from"../../chunks/vendor-43cd886a.js";function i(s){let a,e;return{c(){a=o("h1"),e=r("Hello")},l(s){a=t(s,"H1",{});var o=l(a);e=c(o,"Hello"),o.forEach(n)},m(s,o){u(s,a,o),d(a,e)},p:f,i:f,o:f,d(s){s&&n(a)}}}export default class extends s{constructor(s){super(),a(this,s,null,i,e,{})}}
